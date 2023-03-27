@@ -65,5 +65,5 @@ m._modelo="desk";
 m._anioDisenio=2004;
 m.carnet="uiirhggihnj";
 
-alert("Coche:\n"+c._cilindrada +c._marca+c._modelo+c._numPuertas+c.numOcupantes);
-alert("Moto:\n"+m._cilindrada+m._marca+m._modelo+m._anioDisenio+m.carnet);
+alert("Coche:\n"+c.cilindrada +c.marca+c.modelo+c.numPuertas+c.numOcupantes);
+alert("Moto:\n"+m.cilindrada+m.marca+m.modelo+m.anioDisenio+m.carnet);
